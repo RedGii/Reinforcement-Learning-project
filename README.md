@@ -1,4 +1,4 @@
-# Reinforcement-Learning-project
+# Reinforcement Learning project
 Reinforcement Learning (RL) is a Machine Learning technique in which an agent learns to interact with the environment, receiving "reward" or "punishment" signals depending on the actions it performs, in order to maximize the total reward in the long run term.
 
 Q-learning and SARSA are two RL learning algorithms. Q-learning is an algorithm for learning the value of Q, which determines the best action in a particular situation.
