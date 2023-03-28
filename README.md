@@ -6,3 +6,8 @@ Q-learning and SARSA are two RL learning algorithms. Q-learning is an algorithm 
 SARSA, on the other hand, is another action value Q learning algorithm, which uses an on-policy approach, where the agent learns the Q value of the actions he is actually performing, so the agent learns select actions based on your current policy.
 
 In summary, Q-learning and SARSA are both action value Q learning algorithms, which differ in the approach used to learn the Q value and the choice of action to take. Q-learning uses an off-policy approach, while SARSA uses an on-policy approach.
+
+## Requirement
+```
+pip install memory-profiler
+```
