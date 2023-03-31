@@ -99,7 +99,7 @@ def find_flag_path():
             # Ricompensa
             reward = 100 if next_file == flag_file else -1
 
-            # Aggiorna la Q-table
+            # Aggiorna la Q-table al max
             Q[state, action] += alpha * (reward + gamma * np.max(Q[action]) - Q[state, action])
 
             # Passa allo stato successivo
@@ -154,7 +154,7 @@ def main():
         print(i + 1)
         print(f'Percorso per trovare la bandiera: {path}\n')
         print(f'Tempo di esecuzione: {time_elapsed:.10f} millisecondi')
-        print(f'Utilizzo della memoria: {mem_usage:.2f} Mb\n')
+        print(f'Utilizzo della memoria: {mem_usage:.2f} Mb')
         print(f'Iterazioni: {iterazioni}\n')  # stampa il numero di iterazioni per ogni run
 
     # Calcola la percentuale di successo
@@ -166,8 +166,8 @@ def main():
 
     print('\n****   STATS TOTALI   ****')
     print(f'Tempo medio di esecuzione: {avg_time:.10f} millisecondi')
-    print(f'Utilizzo medio della memoria: {avg_mem:.2f} Mb\n')
-    print(f'Percentuale di successo: {success_percentage:.1f}%\n')
+    print(f'Utilizzo medio della memoria: {avg_mem:.2f} Mb')
+    print(f'Percentuale di successo: {success_percentage:.1f}%')
     print(f'Numero di iterazioni totali: {iterazioni_totali}\n')
 
     # Plot dei risultati
