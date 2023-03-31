@@ -1,0 +1,606 @@
+1
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0006250000 millisecondi
+Utilizzo della memoria: 48.90 Mb
+Iterazioni: 1357
+
+2
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0004580000 millisecondi
+Utilizzo della memoria: 48.63 Mb
+Iterazioni: 1277
+
+3
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 48.62 Mb
+Iterazioni: 1341
+
+4
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 48.59 Mb
+Iterazioni: 1363
+
+5
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002080000 millisecondi
+Utilizzo della memoria: 48.63 Mb
+Iterazioni: 1356
+
+6
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001660000 millisecondi
+Utilizzo della memoria: 48.71 Mb
+Iterazioni: 1324
+
+7
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002080000 millisecondi
+Utilizzo della memoria: 48.59 Mb
+Iterazioni: 1365
+
+8
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002080000 millisecondi
+Utilizzo della memoria: 48.58 Mb
+Iterazioni: 1300
+
+9
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 48.61 Mb
+Iterazioni: 1332
+
+10
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002910000 millisecondi
+Utilizzo della memoria: 48.60 Mb
+Iterazioni: 1304
+
+11
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 48.59 Mb
+Iterazioni: 1308
+
+12
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 48.60 Mb
+Iterazioni: 1313
+
+13
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001660000 millisecondi
+Utilizzo della memoria: 48.61 Mb
+Iterazioni: 1334
+
+14
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 48.61 Mb
+Iterazioni: 1372
+
+15
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 48.59 Mb
+Iterazioni: 1411
+
+16
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002910000 millisecondi
+Utilizzo della memoria: 34.06 Mb
+Iterazioni: 1367
+
+17
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003750000 millisecondi
+Utilizzo della memoria: 34.07 Mb
+Iterazioni: 2057
+
+18
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001250000 millisecondi
+Utilizzo della memoria: 34.10 Mb
+Iterazioni: 1309
+
+19
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 34.09 Mb
+Iterazioni: 1293
+
+20
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002090000 millisecondi
+Utilizzo della memoria: 34.10 Mb
+Iterazioni: 1329
+
+21
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003340000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1323
+
+22
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1306
+
+23
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1318
+
+24
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0005000000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1280
+
+25
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 34.15 Mb
+Iterazioni: 1344
+
+26
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 34.12 Mb
+Iterazioni: 1268
+
+27
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0006670000 millisecondi
+Utilizzo della memoria: 34.20 Mb
+Iterazioni: 1262
+
+28
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001660000 millisecondi
+Utilizzo della memoria: 34.21 Mb
+Iterazioni: 1306
+
+29
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 33.92 Mb
+Iterazioni: 1325
+
+30
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 34.10 Mb
+Iterazioni: 1344
+
+31
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 34.11 Mb
+Iterazioni: 1388
+
+32
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 34.11 Mb
+Iterazioni: 2003
+
+33
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002090000 millisecondi
+Utilizzo della memoria: 34.10 Mb
+Iterazioni: 1321
+
+34
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002910000 millisecondi
+Utilizzo della memoria: 34.12 Mb
+Iterazioni: 1346
+
+35
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001660000 millisecondi
+Utilizzo della memoria: 34.13 Mb
+Iterazioni: 1318
+
+36
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1246
+
+37
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1303
+
+38
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 34.12 Mb
+Iterazioni: 1391
+
+39
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1314
+
+40
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002910000 millisecondi
+Utilizzo della memoria: 34.13 Mb
+Iterazioni: 1307
+
+41
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 34.16 Mb
+Iterazioni: 2222
+
+42
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1328
+
+43
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 34.16 Mb
+Iterazioni: 1358
+
+44
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0004590000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1367
+
+45
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 34.11 Mb
+Iterazioni: 1302
+
+46
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1342
+
+47
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001250000 millisecondi
+Utilizzo della memoria: 34.13 Mb
+Iterazioni: 1329
+
+48
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1333
+
+49
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1302
+
+50
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1303
+
+51
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 34.15 Mb
+Iterazioni: 2254
+
+52
+Percorso per trovare la bandiera: ['index.html', 'view.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 2417
+
+53
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003340000 millisecondi
+Utilizzo della memoria: 34.15 Mb
+Iterazioni: 1331
+
+54
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 34.13 Mb
+Iterazioni: 1356
+
+55
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1329
+
+56
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1405
+
+57
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 34.13 Mb
+Iterazioni: 1321
+
+58
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0004590000 millisecondi
+Utilizzo della memoria: 34.14 Mb
+Iterazioni: 1309
+
+59
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 34.13 Mb
+Iterazioni: 1316
+
+60
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0004590000 millisecondi
+Utilizzo della memoria: 34.11 Mb
+Iterazioni: 1335
+
+61
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002080000 millisecondi
+Utilizzo della memoria: 34.12 Mb
+Iterazioni: 1371
+
+62
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 33.03 Mb
+Iterazioni: 1328
+
+63
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003340000 millisecondi
+Utilizzo della memoria: 33.04 Mb
+Iterazioni: 1284
+
+64
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0005000000 millisecondi
+Utilizzo della memoria: 33.02 Mb
+Iterazioni: 1298
+
+65
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 33.03 Mb
+Iterazioni: 1314
+
+66
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0005000000 millisecondi
+Utilizzo della memoria: 33.02 Mb
+Iterazioni: 1383
+
+67
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002080000 millisecondi
+Utilizzo della memoria: 18.04 Mb
+Iterazioni: 1299
+
+68
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 18.02 Mb
+Iterazioni: 1338
+
+69
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 18.00 Mb
+Iterazioni: 2105
+
+70
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 18.07 Mb
+Iterazioni: 1337
+
+71
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 18.02 Mb
+Iterazioni: 1265
+
+72
+Percorso per trovare la bandiera: ['index.html', 'view.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003340000 millisecondi
+Utilizzo della memoria: 18.04 Mb
+Iterazioni: 2325
+
+73
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002910000 millisecondi
+Utilizzo della memoria: 18.04 Mb
+Iterazioni: 1423
+
+74
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002080000 millisecondi
+Utilizzo della memoria: 18.03 Mb
+Iterazioni: 1324
+
+75
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 18.04 Mb
+Iterazioni: 1350
+
+76
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 18.01 Mb
+Iterazioni: 1303
+
+77
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001660000 millisecondi
+Utilizzo della memoria: 18.02 Mb
+Iterazioni: 1350
+
+78
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002080000 millisecondi
+Utilizzo della memoria: 18.00 Mb
+Iterazioni: 1342
+
+79
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 17.99 Mb
+Iterazioni: 1310
+
+80
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001660000 millisecondi
+Utilizzo della memoria: 18.00 Mb
+Iterazioni: 1292
+
+81
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002090000 millisecondi
+Utilizzo della memoria: 17.98 Mb
+Iterazioni: 1316
+
+82
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 17.98 Mb
+Iterazioni: 1309
+
+83
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 17.98 Mb
+Iterazioni: 1366
+
+84
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 17.99 Mb
+Iterazioni: 1375
+
+85
+Percorso per trovare la bandiera: ['index.html', 'view.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 17.99 Mb
+Iterazioni: 2387
+
+86
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 18.00 Mb
+Iterazioni: 1334
+
+87
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003340000 millisecondi
+Utilizzo della memoria: 18.02 Mb
+Iterazioni: 1258
+
+88
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 18.03 Mb
+Iterazioni: 1351
+
+89
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 18.00 Mb
+Iterazioni: 1318
+
+90
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0005000000 millisecondi
+Utilizzo della memoria: 17.84 Mb
+Iterazioni: 1303
+
+91
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001660000 millisecondi
+Utilizzo della memoria: 17.85 Mb
+Iterazioni: 1367
+
+92
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002910000 millisecondi
+Utilizzo della memoria: 17.88 Mb
+Iterazioni: 1394
+
+93
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 17.86 Mb
+Iterazioni: 1321
+
+94
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 17.87 Mb
+Iterazioni: 1315
+
+95
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 17.82 Mb
+Iterazioni: 1350
+
+96
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002080000 millisecondi
+Utilizzo della memoria: 17.81 Mb
+Iterazioni: 1301
+
+97
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002910000 millisecondi
+Utilizzo della memoria: 17.82 Mb
+Iterazioni: 1344
+
+98
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 17.82 Mb
+Iterazioni: 1369
+
+99
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 17.82 Mb
+Iterazioni: 1374
+
+100
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'data.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 17.83 Mb
+Iterazioni: 2248
+
+
+****   STATS TOTALI   ****
+Tempo medio di esecuzione: 0.0002746100 millisecondi
+Utilizzo medio della memoria: 30.75 Mb
+Percentuale di successo: 100.0%
+Numero di iterazioni totali: 141025
