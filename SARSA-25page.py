@@ -4,6 +4,7 @@ import timeit
 from memory_profiler import memory_usage
 import matplotlib.pyplot as plt
 
+
 def find_flag_path():
     # Server web
     server_web = {
@@ -43,10 +44,10 @@ def find_flag_path():
     }
 
     # Posizione della bandiera
-    # flag_file = 'page_25.html'
+    flag_file = 'data.html'
 
     # Posizione della bandiera random ma diverso da index
-    flag_file = random.choice(list(server_web.keys()))
+    # flag_file = random.choice(list(server_web.keys()))
     while flag_file == 'index.html':
         flag_file = random.choice(list(server_web.keys()))
 
@@ -79,13 +80,6 @@ def find_flag_path():
         # Inizia dall'index.html
         state = file_indices['index.html']
 
-        # Scegli un'azione iniziale usando l'epsilon-greedy
-        actions = [file_indices[file] for file in server_web[index_files[state]]]
-        if random.uniform(0, 1) < epsilon:
-            action = random.choice(actions)
-        else:
-            action = actions[np.argmax(Q[state, actions])]
-
         while index_files[state] != flag_file:
             # Scegli un'azione usando l'epsilon-greedy
             actions = [file_indices[file] for file in server_web[index_files[state]]]
@@ -113,8 +107,6 @@ def find_flag_path():
             else:
                 next_action = None
 
-            action = next_action  # Aggiorna l'azione corrente con la prossima azione
-
             # Aggiorna la Q-table
             if next_action is not None:
                 Q[state, action] += alpha * (reward + gamma * Q[next_state, next_action] - Q[state, action])
@@ -123,6 +115,7 @@ def find_flag_path():
 
             # Passa allo stato successivo
             state = next_state
+            action = next_action
 
             if not next_actions:
                 break
@@ -142,19 +135,20 @@ def find_flag_path():
     # restituisci path e numero di iterazioni
     return path, iterazioni
 
+
 def main():
-    n_runs = 10
+    n_runs = 2
     times = []
     memory = []
     correct_flag_count = 0
     iterazioni_totali = 0  # Inizializza la variabile a zero
     iterazioni_list = []  # lista vuota per le iterazioni
 
-
     for i in range(n_runs):
         # Percorso flag
         path, iterazioni = find_flag_path()
         iterazioni_list.append(iterazioni)  # salva il numero di iterazioni per ogni run
+
 
         # Misura il tempo di esecuzione
         start_time = timeit.default_timer()
@@ -174,10 +168,11 @@ def main():
         iterazioni_totali += iterazioni
 
         print(i + 1)
-        print(f'Percorso per trovare la bandiera: {path}')
+        print(f'Percorso per trovare la bandiera: {path}\n')
         print(f'Tempo di esecuzione: {time_elapsed:.10f} millisecondi')
         print(f'Utilizzo della memoria: {mem_usage:.2f} Mb')
         print(f'Iterazioni: {iterazioni}\n')  # stampa il numero di iterazioni per ogni run
+
 
     # Calcola la percentuale di successo
     success_percentage = correct_flag_count / n_runs * 100
@@ -204,6 +199,7 @@ def main():
     ax[1].set_xlabel('Numero di esecuzioni')
     ax[1].set_ylabel('Utilizzo della memoria (Mb)')
     plt.show()
+
 
 if __name__ == '__main__':
     main()
