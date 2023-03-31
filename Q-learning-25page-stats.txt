@@ -602,5 +602,5 @@ Iterazioni: 15347
 ****   STATS TOTALI   ****
 Tempo medio di esecuzione: 0.0004233200 millisecondi
 Utilizzo medio della memoria: 44.30 Mb
-Percentuale di successo: 0.0%
+Percentuale di successo: 100.0%
 Numero di iterazioni totali: 1487501
