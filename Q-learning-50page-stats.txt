@@ -1,0 +1,606 @@
+1
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'pictures.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 52.27 Mb
+Iterazioni: 115300
+
+2
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'pictures.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 49.87 Mb
+Iterazioni: 124817
+
+3
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 49.29 Mb
+Iterazioni: 238981
+
+4
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'pictures.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002090000 millisecondi
+Utilizzo della memoria: 49.09 Mb
+Iterazioni: 118698
+
+5
+Percorso per trovare la bandiera: ['index.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 34.55 Mb
+Iterazioni: 28362
+
+6
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005420000 millisecondi
+Utilizzo della memoria: 34.74 Mb
+Iterazioni: 110387
+
+7
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'pictures.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005000000 millisecondi
+Utilizzo della memoria: 34.04 Mb
+Iterazioni: 122845
+
+8
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'pictures.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 34.20 Mb
+Iterazioni: 121492
+
+9
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'pictures.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003340000 millisecondi
+Utilizzo della memoria: 17.69 Mb
+Iterazioni: 116411
+
+10
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003750000 millisecondi
+Utilizzo della memoria: 17.66 Mb
+Iterazioni: 299406
+
+11
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 17.66 Mb
+Iterazioni: 120848
+
+12
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005000000 millisecondi
+Utilizzo della memoria: 17.66 Mb
+Iterazioni: 30877
+
+13
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 17.48 Mb
+Iterazioni: 104622
+
+14
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 17.70 Mb
+Iterazioni: 122004
+
+15
+Percorso per trovare la bandiera: ['index.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0004580000 millisecondi
+Utilizzo della memoria: 17.57 Mb
+Iterazioni: 65134
+
+16
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 17.55 Mb
+Iterazioni: 120661
+
+17
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002910000 millisecondi
+Utilizzo della memoria: 17.68 Mb
+Iterazioni: 108028
+
+18
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 16.04 Mb
+Iterazioni: 109575
+
+19
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0015000000 millisecondi
+Utilizzo della memoria: 16.22 Mb
+Iterazioni: 337610
+
+20
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005000000 millisecondi
+Utilizzo della memoria: 16.23 Mb
+Iterazioni: 99659
+
+21
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 16.17 Mb
+Iterazioni: 112728
+
+22
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 16.22 Mb
+Iterazioni: 66395
+
+23
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005420000 millisecondi
+Utilizzo della memoria: 16.25 Mb
+Iterazioni: 121737
+
+24
+Percorso per trovare la bandiera: ['index.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0004580000 millisecondi
+Utilizzo della memoria: 16.23 Mb
+Iterazioni: 142092
+
+25
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0009590000 millisecondi
+Utilizzo della memoria: 16.26 Mb
+Iterazioni: 109354
+
+26
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0007500000 millisecondi
+Utilizzo della memoria: 16.14 Mb
+Iterazioni: 343879
+
+27
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0006670000 millisecondi
+Utilizzo della memoria: 16.23 Mb
+Iterazioni: 346512
+
+28
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 16.23 Mb
+Iterazioni: 23438
+
+29
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'page_19.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0006250000 millisecondi
+Utilizzo della memoria: 16.25 Mb
+Iterazioni: 93661
+
+30
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'pictures.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0001660000 millisecondi
+Utilizzo della memoria: 16.27 Mb
+Iterazioni: 122649
+
+31
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003750000 millisecondi
+Utilizzo della memoria: 16.18 Mb
+Iterazioni: 116548
+
+32
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005840000 millisecondi
+Utilizzo della memoria: 16.20 Mb
+Iterazioni: 115451
+
+33
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 16.12 Mb
+Iterazioni: 116889
+
+34
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 16.22 Mb
+Iterazioni: 27844
+
+35
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 16.19 Mb
+Iterazioni: 116610
+
+36
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 16.18 Mb
+Iterazioni: 133165
+
+37
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0006670000 millisecondi
+Utilizzo della memoria: 16.23 Mb
+Iterazioni: 221801
+
+38
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 16.28 Mb
+Iterazioni: 25969
+
+39
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0008330000 millisecondi
+Utilizzo della memoria: 16.29 Mb
+Iterazioni: 115746
+
+40
+Percorso per trovare la bandiera: ['index.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 16.27 Mb
+Iterazioni: 110195
+
+41
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0006670000 millisecondi
+Utilizzo della memoria: 16.14 Mb
+Iterazioni: 323147
+
+42
+Percorso per trovare la bandiera: ['index.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0006250000 millisecondi
+Utilizzo della memoria: 16.23 Mb
+Iterazioni: 363279
+
+43
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0006670000 millisecondi
+Utilizzo della memoria: 16.24 Mb
+Iterazioni: 120014
+
+44
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005830000 millisecondi
+Utilizzo della memoria: 16.25 Mb
+Iterazioni: 161274
+
+45
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0007920000 millisecondi
+Utilizzo della memoria: 16.27 Mb
+Iterazioni: 175954
+
+46
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003750000 millisecondi
+Utilizzo della memoria: 16.29 Mb
+Iterazioni: 110448
+
+47
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 16.27 Mb
+Iterazioni: 112312
+
+48
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 16.25 Mb
+Iterazioni: 66385
+
+49
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003750000 millisecondi
+Utilizzo della memoria: 16.25 Mb
+Iterazioni: 22323
+
+50
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003750000 millisecondi
+Utilizzo della memoria: 16.25 Mb
+Iterazioni: 252204
+
+51
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003750000 millisecondi
+Utilizzo della memoria: 16.26 Mb
+Iterazioni: 112084
+
+52
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003340000 millisecondi
+Utilizzo della memoria: 16.26 Mb
+Iterazioni: 109310
+
+53
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0006660000 millisecondi
+Utilizzo della memoria: 16.23 Mb
+Iterazioni: 118800
+
+54
+Percorso per trovare la bandiera: ['index.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 16.29 Mb
+Iterazioni: 112881
+
+55
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005000000 millisecondi
+Utilizzo della memoria: 16.26 Mb
+Iterazioni: 163752
+
+56
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0004580000 millisecondi
+Utilizzo della memoria: 16.02 Mb
+Iterazioni: 121255
+
+57
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003750000 millisecondi
+Utilizzo della memoria: 16.09 Mb
+Iterazioni: 122916
+
+58
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 16.05 Mb
+Iterazioni: 114023
+
+59
+Percorso per trovare la bandiera: ['index.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0006670000 millisecondi
+Utilizzo della memoria: 16.24 Mb
+Iterazioni: 119570
+
+60
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 15.71 Mb
+Iterazioni: 948531
+
+61
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0004170000 millisecondi
+Utilizzo della memoria: 15.95 Mb
+Iterazioni: 131767
+
+62
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003340000 millisecondi
+Utilizzo della memoria: 15.96 Mb
+Iterazioni: 114299
+
+63
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0001670000 millisecondi
+Utilizzo della memoria: 15.99 Mb
+Iterazioni: 108253
+
+64
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 16.21 Mb
+Iterazioni: 122053
+
+65
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002910000 millisecondi
+Utilizzo della memoria: 16.06 Mb
+Iterazioni: 117846
+
+66
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005000000 millisecondi
+Utilizzo della memoria: 16.20 Mb
+Iterazioni: 34632
+
+67
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0004590000 millisecondi
+Utilizzo della memoria: 15.96 Mb
+Iterazioni: 120872
+
+68
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005840000 millisecondi
+Utilizzo della memoria: 16.19 Mb
+Iterazioni: 116842
+
+69
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0007920000 millisecondi
+Utilizzo della memoria: 16.21 Mb
+Iterazioni: 286662
+
+70
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003340000 millisecondi
+Utilizzo della memoria: 16.22 Mb
+Iterazioni: 290039
+
+71
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0004580000 millisecondi
+Utilizzo della memoria: 16.21 Mb
+Iterazioni: 119768
+
+72
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005000000 millisecondi
+Utilizzo della memoria: 16.19 Mb
+Iterazioni: 114645
+
+73
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002910000 millisecondi
+Utilizzo della memoria: 16.20 Mb
+Iterazioni: 118345
+
+74
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002500000 millisecondi
+Utilizzo della memoria: 16.21 Mb
+Iterazioni: 125954
+
+75
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'pictures.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005840000 millisecondi
+Utilizzo della memoria: 16.17 Mb
+Iterazioni: 118693
+
+76
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 16.18 Mb
+Iterazioni: 114924
+
+77
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0005000000 millisecondi
+Utilizzo della memoria: 16.18 Mb
+Iterazioni: 112840
+
+78
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003750000 millisecondi
+Utilizzo della memoria: 16.20 Mb
+Iterazioni: 117216
+
+79
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0006250000 millisecondi
+Utilizzo della memoria: 16.19 Mb
+Iterazioni: 120236
+
+80
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002920000 millisecondi
+Utilizzo della memoria: 16.21 Mb
+Iterazioni: 117493
+
+81
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0010000000 millisecondi
+Utilizzo della memoria: 16.22 Mb
+Iterazioni: 117633
+
+82
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0007920000 millisecondi
+Utilizzo della memoria: 16.41 Mb
+Iterazioni: 118013
+
+83
+Percorso per trovare la bandiera: ['index.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0007080000 millisecondi
+Utilizzo della memoria: 16.38 Mb
+Iterazioni: 131474
+
+84
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0004590000 millisecondi
+Utilizzo della memoria: 16.43 Mb
+Iterazioni: 28055
+
+85
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0006250000 millisecondi
+Utilizzo della memoria: 16.43 Mb
+Iterazioni: 125762
+
+86
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'pictures.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002910000 millisecondi
+Utilizzo della memoria: 16.43 Mb
+Iterazioni: 114523
+
+87
+Percorso per trovare la bandiera: ['index.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003340000 millisecondi
+Utilizzo della memoria: 16.40 Mb
+Iterazioni: 115506
+
+88
+Percorso per trovare la bandiera: ['index.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 16.40 Mb
+Iterazioni: 139361
+
+89
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0010420000 millisecondi
+Utilizzo della memoria: 16.43 Mb
+Iterazioni: 275469
+
+90
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0002080000 millisecondi
+Utilizzo della memoria: 16.43 Mb
+Iterazioni: 120699
+
+91
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003750000 millisecondi
+Utilizzo della memoria: 16.43 Mb
+Iterazioni: 118432
+
+92
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0004170000 millisecondi
+Utilizzo della memoria: 16.40 Mb
+Iterazioni: 101717
+
+93
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0004580000 millisecondi
+Utilizzo della memoria: 16.40 Mb
+Iterazioni: 122024
+
+94
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'pictures.html', 'privacy.html', 'search.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0014580000 millisecondi
+Utilizzo della memoria: 16.41 Mb
+Iterazioni: 147205
+
+95
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'privacy.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003750000 millisecondi
+Utilizzo della memoria: 16.40 Mb
+Iterazioni: 116176
+
+96
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0007920000 millisecondi
+Utilizzo della memoria: 16.39 Mb
+Iterazioni: 120422
+
+97
+Percorso per trovare la bandiera: ['index.html', 'news.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 16.38 Mb
+Iterazioni: 117794
+
+98
+Percorso per trovare la bandiera: ['index.html', 'contact.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0010830000 millisecondi
+Utilizzo della memoria: 16.42 Mb
+Iterazioni: 115249
+
+99
+Percorso per trovare la bandiera: ['index.html', 'faq.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0003330000 millisecondi
+Utilizzo della memoria: 16.44 Mb
+Iterazioni: 119465
+
+100
+Percorso per trovare la bandiera: ['index.html', 'menu.html', 'about.html', 'location.html', 'page_20.html', 'page_32.html', 'page_34.html', 'page_49.html', 'page_50.html']
+Tempo di esecuzione: 0.0001660000 millisecondi
+Utilizzo della memoria: 16.45 Mb
+Iterazioni: 119065
+
+
+****   STATS TOTALI   ****
+Tempo medio di esecuzione: 0.0004650600 millisecondi
+Utilizzo medio della memoria: 18.44 Mb
+Percentuale di successo: 100.0%
+Numero di iterazioni totali: 14056265
