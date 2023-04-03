@@ -147,7 +147,7 @@ def find_flag_path():
 
 
 def main():
-    n_runs = 1
+    n_runs = 100
     times = []
     memory = []
     correct_flag_count = 0
